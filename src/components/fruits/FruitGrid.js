@@ -4,10 +4,11 @@ import Spinner from '../ui/Spinner';
 
 
 const FruitGrid = ({ items, images, isLoading }) => { 
-
+    //if loading show spinner, otherwise map the data 
     return isLoading ? (
         <Spinner />
     ) : (
+        //map and combine data from two data sources together
         <section className="cards">
         <React.Fragment>
         {items.map((item, key) => {
