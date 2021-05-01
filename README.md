@@ -4,7 +4,7 @@ Simple web app created with React.js
 
 ## How to view
 
-This project is deploying on heroku. Click [https://fruit-gallery.herokuapp.com/](https://fruit-gallery.herokuapp.com/) to see the project.
+This project is deploying on Heroku. Click [https://fruit-gallery.herokuapp.com/](https://fruit-gallery.herokuapp.com/) to see the project. It will take up to a few seconds for the pictures to show.
 
 ## Set up locally 
 
