@@ -8,6 +8,8 @@ Simple web app created with React.js
 
 This project is deploying on Heroku. Click [https://fruit-gallery.herokuapp.com/](https://fruit-gallery.herokuapp.com/) to see the project. It will take up to a few seconds for the pictures to show.
 
+If got no 'Access-Control-Allow-Origin' error, visit [https://cors-anywhere.herokuapp.com/](https://cors-anywhere.herokuapp.com/) or [https://cors-anywhere.herokuapp.com/corsdemo](https://cors-anywhere.herokuapp.com/corsdemo) and click on the "Request temporary access to the demo server" button, to temporarily restore the full functionality of CORS Anywhere.
+
 ## Set up locally 
 
 To run this project, install it locally using npm: 
